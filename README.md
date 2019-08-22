@@ -1,6 +1,3 @@
-
-React E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe...
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
